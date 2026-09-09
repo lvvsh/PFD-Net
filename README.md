@@ -27,9 +27,9 @@ pip install -r requirements.txt
 4.Clone the repository and change the directory
 
 ```python
-https://github.com/lvvsh/MLCL.git
+(https://github.com/lvvsh/PFD-Net.git)
 
-cd MLCL
+cd PFD-Net
 ```
 ## Training
 
@@ -45,7 +45,7 @@ cd MLCL
 
 1.train
 ```python
-python main_train.py
+python train_C2FSemiCD.py
 ```
 ## Experiment
 ### result on the LEVIR-CD
@@ -62,7 +62,7 @@ python main_train.py
 | SEIFNet | 92.49 | 89.46 | 90.95 | 83.40 | 98.09 |
 | Ours | **95.57** | **92.24** | **93.83** | **88.89** | 98.85 |
 
-### result on the SUSU-CD
+### result on the S2look-CD
 | Method       | Pre.  | Rec.  | F1    | IoU   | OA    |
 |--------------|-------|-------|-------|-------|-------|
 | FC-EF   | 83.91 | 66.98 | 74.49 | 59.63 | 89.18 |
