@@ -23,7 +23,7 @@ Official PyTorch implementation of **PFD-Net**, a label-efficient semi-supervise
 ## 🏗️ Architecture Overview
 
 <p align="center">
-  <img src=["Frame.png"](https://github.com/lvvsh/PFD-Net/blob/main/image.png) width="95%" alt="PFD-Net Overall Architecture">
+  <img src="https://github.com/lvvsh/PFD-Net/blob/main/image.png" width="95%" alt="PFD-Net Overall Architecture">
 </p>
 
 *Overview of PFD-Net: (Left) Decoupled Offline Physics-Frequency Data Engine generating physically degraded ($A_{diff}$) and frequency-sharpened ($B_{sharp}$) pairs. (Right) Online Siamese Teacher-Student consistency training framework guided by Null-Change Prior.*
