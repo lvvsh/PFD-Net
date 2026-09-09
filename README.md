@@ -10,13 +10,6 @@
 
 Official PyTorch implementation of **PFD-Net**, a label-efficient semi-supervised remote sensing change detection framework featuring an offline **Physics-Frequency Data Engine** and an online **Siamese Consistency Architecture**.
 
----
-
-## 📢 News
-- **[2026]**: Code and pretrained weights for LEVIR-CD, WHU-CD, and GZ-CD are released!
-- **[2026]**: Paper submitted to *Neurocomputing* (Under Minor Revision).
-
----
 
 ## 🌟 Key Features
 
