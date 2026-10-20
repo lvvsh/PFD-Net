@@ -5,7 +5,7 @@
   <a href="https://github.com/lvvsh/PFD-Net"><img src="https://img.shields.io/badge/PyTorch-2.0+-orange.svg"></a>
   <a href="https://github.com/lvvsh/PFD-Net"><img src="https://img.shields.io/badge/Python-3.11-green.svg"></a>
   <a href="https://github.com/lvvsh/PFD-Net"><img src="https://img.shields.io/badge/License-MIT-purple.svg"></a>
-  <a href="https://github.com/lvvsh/PFD-Net"><img src="https://img.shields.io/badge/Status-Under%20Minor%20Revision-red.svg"></a>
+  <a href="https://github.com/lvvsh/PFD-Net"><img src="https://img.shields.io/badge/Status-accpet-red.svg"></a>
 </p>
 
 Official PyTorch implementation of **PFD-Net**, a label-efficient semi-supervised remote sensing change detection framework featuring an offline **Physics-Frequency Data Engine** and an online **Siamese Consistency Architecture**.
